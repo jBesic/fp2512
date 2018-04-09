@@ -1,52 +1,40 @@
 <section class="jb-section jb-screen-height">
     <header class="jb-hero">
-        <h1>Hi, I'm a web engineer.</h1>
-        <h2>I specialize in brand identity, web design, UI and UX design, and of course development.</h2>
+        <h1>Hi, I'm a web developer.</h1>
+        <h2>I do full stack development, both front end and back end.</h2>
     </header>
 </section>
 <section class="jb-section jb-primary-shade-1 jb-screen-height">
     <h1>My expertise are</h1>
     <article class="jb-skill">
-        <h2>Brand identity</h2>
-        <p>Aenean id ornare tellus, eget consectetur magna. Nunc dignissim mattis odio vel ultricies. Nulla sit amet
-            hendrerit leo. Cras dignissim viverra aliquet. Quisque sodales arcu vitae leo molestie elementum.
-        </p>
+        <h2>Front end development</h2>
+        <p>This is my passion. I loved working with technologies such as <b>html</b>, <b>css</b>, <b>scss/sass</b>, <b>js</b>,
+            <b>jquery</b>, <b>reactJS</b>, <b>angular</b>, <b>angular 2</b> and plugins/tools related to front end
+            development.</p>
     </article>
     <article class="jb-skill">
-        <h2>Web Design</h2>
-        <p>Nulla dui nisl, accumsan id arcu at, luctus dignissim ligula. Nam vitae viverra tortor. Maecenas viverra
-            interdum tortor eget ullamcorper.
-        </p>
-    </article>
-    <article class="jb-skill">
-        <h2>Development</h2>
-        <p>Phasellus sagittis urna nec augue scelerisque, nec pretium magna pretium. Pellentesque pretium lorem quis
-            metus posuere, quis tristique ex facilisis. Vestibulum eget neque eu mauris lobortis pellentesque. Praesent
-            eget elit eu tortor laoreet ultricies. Mauris in turpis ultricies, placerat lectus egestas, fringilla
-            tellus. Sed eu venenatis urna, sed ultricies ante. Vestibulum ante ipsum primis in faucibus orci luctus et
-            ultrices posuere cubilia Curae;
-        </p>
+        <h2>Back end development</h2>
+        <p>This type of job is mainly done in <b>PHP</b> and <b>SQL</b>. Beside coding, I do planning of an architecture
+            used by an application.</p>
     </article>
 </section>
-<section class="jb-section jb-primary-shade-2 jb-screen-height">
+<section class="jb-section">
     <h1>I have worked on</h1>
-    <figure class="jb-figure">
-<!--        <div class="jb-image-lazy-load jb-primary-shade-3"></div>-->
-        <img class="img-responsive" alt="" src="https://www.gettyimages.ca/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg" />
-        <figcaption>Aenean id ornare tellus, eget consectetur magna. Nunc dignissim mattis odio vel ultricies.</figcaption>
-    </figure>
-    <figure class="jb-figure">
-<!--        <div class="jb-image-lazy-load jb-primary-shade-3"></div>-->
-        <img class="img-responsive" alt="" src="https://wallpaperbrowse.com/media/images/cat-1285634_960_720.png" />
-        <figcaption>Proin et posuere erat. Suspendisse potenti. Proin ac tincidunt elit.</figcaption>
-    </figure>
-    <figure class="jb-figure">
-<!--        <div class="jb-image-lazy-load jb-primary-shade-3"></div>-->
-        <img class="img-responsive" alt="" src="https://www.sciencenews.org/sites/default/files/2018/01/012318_MT_3D-images_inline_730.jpg?mode=topic&context=96" />
-        <figcaption>Mauris quis eleifend felis, vitae accumsan dui. Fusce blandit nec mauris at venenatis.</figcaption>
-    </figure>
+    <article class="jb-project-summary">
+        <h2>This is the project done by myself in the Yii framework.</h2>
+        <figure class="jb-figure">
+            <div class="jb-image-lazy-load jb-primary-shade-3" data-jb-image-alt=""
+                 data-jb-image-url="<?php echo Yii::app()->request->baseUrl; ?>/images/playground.jpg">
+                <div class="jb-circle-load-wrapper">
+                    <div class="jb-circle-load"></div>
+                </div>
+            </div>
+        </figure>
+        <a class="btn btn-block jb-btn jb-accent-bg-color"
+           href="<?php echo Yii::app()->getBaseUrl() . '/project/1'; ?>">Read project details</a>
+    </article>
 </section>
 <section class="jb-section jb-primary-bg-color">
-    <h1 class="text-center">Do you need some help with your bussines?</h1>
-    <a class="btn btn-block jb-btn jb-accent-bg-color" href="<?php echo Yii::app()->getBaseUrl() . '/contact'; ?>">Hire me</a>
+    <h1 class="text-center">Are you need some help?</h1>
+    <a class="btn btn-block jb-btn jb-accent-bg-color" href="<?php echo Yii::app()->getBaseUrl() . '/contact'; ?>">Send me a message</a>
 </section>

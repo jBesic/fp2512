@@ -1,5 +1,5 @@
 <section class="jb-section jb-screen-height">
-    <article class="jb-article">
+    <article class="jb-project">
         <h1>Aenean id ornare tellus, eget consectetur magna.</h1>
         <p>Aenean id ornare tellus, eget consectetur magna. Nunc dignissim mattis odio vel ultricies. Nulla sit amet
             hendrerit leo. Cras dignissim viverra aliquet. Quisque sodales arcu vitae leo molestie elementum. Nulla dui
