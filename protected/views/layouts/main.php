@@ -7,9 +7,7 @@
     <meta name="language" content="en"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-    <link rel="stylesheet" type="text/css"
-          href="<?php echo Yii::app()->request->baseUrl; ?>/css/bootstrap/css/bootstrap.min.css"/>
-    <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.min.css"/>
 
     <title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
@@ -17,10 +15,7 @@
 <?php $this->renderPartial('application.views.partials.navigation'); ?>
 <?php echo $content; ?>
 
-<script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/jquery/jquery.min.js"></script>
-<script type="text/javascript"
-        src="<?php echo Yii::app()->request->baseUrl; ?>/js/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/jb.js"></script>
+<script type="text/javascript" src="<?php echo Yii::app()->request->baseUrl; ?>/js/main.min.js"></script>
 <body>
 </body>
 </html>

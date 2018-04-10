@@ -6882,3 +6882,217 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
 ---
+2018/04/09 14:43:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/09 14:44:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/09 14:44:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/09 14:45:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('bootstrap.min.c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/bootstrap.min.css.map
+---
+2018/04/09 14:45:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 06:36:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 06:52:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('bootstrap.min.c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/bootstrap.min.css.map
+---
+2018/04/10 06:52:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:02:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:04:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('bootstrap.min.c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/bootstrap.min.css.map
+---
+2018/04/10 07:04:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:08:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:09:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:10:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:10:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:25:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:27:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:30:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 07:30:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/css/bootstrap.min.css.map".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/c...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/css/bootstrap/css/bootstrap.min.css.map
+---
+2018/04/10 08:02:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/glyphicons-halflings-regular.woff2".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('fonts/glyphicon...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/fonts/glyphicons-halflings-regular.woff2
+HTTP_REFERER=http://localhost/jasmin-besic/css/main.min.css
+---
+2018/04/10 08:02:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/glyphicons-halflings-regular.woff".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('fonts/glyphicon...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/fonts/glyphicons-halflings-regular.woff
+HTTP_REFERER=http://localhost/jasmin-besic/css/main.min.css
+---
+2018/04/10 08:02:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/glyphicons-halflings-regular.ttf".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('fonts/glyphicon...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/fonts/glyphicons-halflings-regular.ttf
+HTTP_REFERER=http://localhost/jasmin-besic/css/main.min.css
+---
+2018/04/10 08:02:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/glyphicons-halflings-regular.woff2".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('fonts/glyphicon...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/fonts/glyphicons-halflings-regular.woff2
+HTTP_REFERER=http://localhost/jasmin-besic/css/main.min.css
+---
+2018/04/10 08:02:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/glyphicons-halflings-regular.woff".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('fonts/glyphicon...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/fonts/glyphicons-halflings-regular.woff
+HTTP_REFERER=http://localhost/jasmin-besic/css/main.min.css
+---
+2018/04/10 08:02:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/glyphicons-halflings-regular.ttf".' in C:\framework\framework-v1.1.15\web\CWebApplication.php:286
+Stack trace:
+#0 C:\framework\framework-v1.1.15\web\CWebApplication.php(141): CWebApplication->runController('fonts/glyphicon...')
+#1 C:\framework\framework-v1.1.15\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp64\www\jasmin-besic\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jasmin-besic/fonts/glyphicons-halflings-regular.ttf
+HTTP_REFERER=http://localhost/jasmin-besic/css/main.min.css
+---
